@@ -1,13 +1,19 @@
 body{
     background-color: teal;
+    border-style: dashed;
+    border-color: saddlebrown;
+    padding-left: 90px;
+    padding-top: 90px;
 }
-p{
-    font-size: 20;
+p1{
+    font-size: 60;
 }
 li{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: inherit;
     font-size: 30px;
+    align-items: center;
+    
 }
 h1{
     font-size: 48;

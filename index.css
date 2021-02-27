@@ -1,0 +1,14 @@
+body{
+    background-color: teal;
+}
+p{
+    font-size: 20;
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    font-size: 30px;
+}
+h1{
+    font-size: 48;
+}

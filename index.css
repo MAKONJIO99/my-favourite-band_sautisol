@@ -18,3 +18,12 @@ li{
 h1{
     font-size: 48;
 }
+a:link{
+    background-color: cyan;
+    padding: 5;
+}
+a:hover{
+    color: blue;
+    background-color: hotpink;
+    text-decoration: indigo;
+}

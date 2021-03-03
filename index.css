@@ -18,3 +18,10 @@ li{
 h1{
     font-size: 48;
 }
+}
+a:hover{
+    color: blue;
+    background-color: hotpink;
+    text-decoration: indigo;
+}
+

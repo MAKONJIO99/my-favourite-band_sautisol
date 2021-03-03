@@ -18,6 +18,6 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [live](https://MAKONJIO99.github.io/my-favourite-band_sautisol)
+View [live](https://makonjio99.github.io/my-favourite-band_sautisol/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
